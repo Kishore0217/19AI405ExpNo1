@@ -1,8 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Kishore s</h3>
 <h3>Register Number: 212224240078 </h3>
-
-
+<h3> Date:15/10/26</h3>
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -87,6 +86,7 @@ agent.run()
 ```
 
 output:
+
 <img width="691" height="343" alt="image" src="https://github.com/user-attachments/assets/69a4c1a9-bb52-452f-8339-93068630ff55" />
 
 RESULT:
